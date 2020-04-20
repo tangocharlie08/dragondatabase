@@ -1,0 +1,47 @@
+.manufacture-dropdown{
+    width: 100%;
+    height: 35px;
+    border: 1px solid #ccc;
+}
+.product-image{
+    width: 50px;
+}
+.info-blocks li{
+    min-width: 250px !important;
+    margin-bottom: 20px !Important;;
+}
+
+label.error{
+    background-color: transparent !important;
+    color: red !important;
+}
+
+.selected_images img{
+    padding: 10px;
+    width: 300px;
+    float: left;
+}
+
+
+.previous_img button{
+    position: absolute;
+}
+
+.table-responsive {
+    overflow-x: scroll !important;
+    -webkit-overflow-scrolling: touch !important;
+}
+.table-responsive .table{
+    overflow-x: scroll;
+}
+
+.sidebar-link{
+    padding: 13px 13px 14px 14px !important;
+}
+.svg-inline--fa{
+    float: right !important;
+    font-size: 14px;
+}
+thead{
+    background-color: #fcfcfc !important;
+}

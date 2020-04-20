@@ -1,0 +1,7 @@
+username && database_name= kullabsc_epro
+database password = L}pLauZKZT,x
+
+site admin
+
+username= admin
+password= admin
